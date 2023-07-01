@@ -1,0 +1,21 @@
+.product__info {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(241, 239, 239, 0.447);
+    padding: 1.5em;
+    margin: 1em;
+}
+
+.product__img{
+    width:140px 40px ;
+    margin-bottom: 1em;
+}
+
+img{
+    padding: 0 2px;
+    width:140px 40px ;
+}
+
+.product__subtotal{
+    color: #D85D5D;
+}

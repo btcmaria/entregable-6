@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+}
+
+input, button{
+    border: none;
+}
+
+input {
+    outline: none;
+    height:25px;
+    width:11rem;
+    box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+}
+
+.home__form-busqueda {
+    display: flex;
+    justify-content: center;
+}
+
+.home__lupa{  
+    height:25px;
+    width:29px;
+}
+
+/*.home {
+    background-color: blueviolet;
+}*/
+
+.home__input{
+    padding: 0.4em 0.8em;
+    border-radius: 0.5em 0 0 0.5em;
+    box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+}
+
+.home__input-btn {
+    background-color: #e96262;
+    border-radius: 0 0.5em 0.5em 0;
+}
+
+.form__price{
+    gap: 2em;
+}
+
+
+
+.home__body{
+    padding: 20px;
+
+}
+
+.home__product-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3em;
+    justify-content: center;
+}

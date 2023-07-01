@@ -1,0 +1,42 @@
+
+.login__info{
+    padding: 2em;
+}
+.login {
+    display: flex;
+    justify-content: center;
+}
+
+.ligin__title{
+    text-align: center;
+    color: #e96262;
+}
+
+.login__form{
+    margin: 2em;
+    border-radius: 0.2rem;
+    padding: 1em 0.8em;
+    box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+}
+
+.login__label{
+    box-sizing: border-box;
+    color: #141414;
+    font-family: Yantramanav,sans-serif;
+    margin-bottom: 0.5em;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.login__btn{
+    border: none;
+    background-color: #e96262;
+    border-radius: 0.2em;
+    right: 20px;
+    cursor: pointer;
+    padding: 5px;
+    color: white;
+    margin: 5px 0 10px;
+}

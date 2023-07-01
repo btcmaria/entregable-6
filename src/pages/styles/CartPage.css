@@ -1,0 +1,16 @@
+.products{
+    padding: 30px 20px;
+}
+
+.product__total{
+    margin-top: 2em;
+    margin: 0px 0px 20px;
+}
+
+.product__btn-total{
+    width: 2.3em;
+    padding: 0.5em;
+    border-radius: 0.2em;
+    background-color: var(--color-red);
+    color: white;
+}
